@@ -13,4 +13,4 @@ steps:
 when:
   repo:
     include:
-    - Conditionsdocker/conditions
+    - Condition-Org/Drone-test
