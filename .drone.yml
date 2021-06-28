@@ -11,6 +11,6 @@ steps:
       - flake8
       
 when:
-  event:
-    include:
-    - push
+  repo:
+    exclude:
+    - Conditionsdocker/conditions
